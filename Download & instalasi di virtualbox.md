@@ -3,4 +3,4 @@
 ```https://www.centos.org/download/```
 ## Pilih architecture dan ekstensi file
 ![pilih file](assets/1.png)
-## Klik mirror dan otomatis download file
+## Klik mirror dan otomatis download
