@@ -7,4 +7,4 @@
 
 # Installasi CentOS di virtualbox
 ## Buat virtual machine baru
-![img](https://github.com/user-attachments/assets/8ee5b0db-7a33-4a62-9438-8dfccc1d904a)
+![img](https://github.com/user-attachments/assets/5e0cfab4-9ed7-4037-af7a-326524e6e746)
